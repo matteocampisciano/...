@@ -7,3 +7,4 @@ ANNO ACCADEMICO 2022/23
 Progetto d'esame Campisciano Matteo 
 sviluppo sito WEB
 piattaforme usate :CODEPEN ,GITHUB,NETLIFY 
+Il progetto tratta della mia eventuale azienda di beauty che parla di armocromia, per far capire e individuare la propria stagione armocromatica.
